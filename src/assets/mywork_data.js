@@ -1,4 +1,4 @@
-import project1_img from '../assets/SocialMedia_img.png'
+import project1_img from '../assets/Hirex.png'
 import project2_img from '../assets/Travelbest_img.png'
 import project3_img from '../assets/Travelix_img.png'
 import project4_img from '../assets/Dashboard_img.png'
