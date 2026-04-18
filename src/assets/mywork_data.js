@@ -3,7 +3,7 @@ import project2_img from '../assets/Travelbest_img.png'
 import project3_img from '../assets/Travelix_img.png'
 import project4_img from '../assets/Dashboard_img.png'
 import project5_img from '../assets/hushryd.png'
-import project6_img from '../assets/Thumbnail-e-learning.png'
+import project6_img from '../assets/Hirex.png'
 import project7_img from '../assets/travellian.png'
 import project8_img from '../assets/ERP.png'
 import project9_img from '../assets/contact.png'
@@ -14,7 +14,7 @@ const mywork_data = [
         w_no:1,
         w_name:"Web design social-media",
         w_img:project1_img,
-        w_link:"https://guviui.netlify.app/",
+        w_link:"https://hiriex.netlify.app/",
     },
     {
         w_no:2,
@@ -42,9 +42,9 @@ const mywork_data = [
     },
     {
         w_no:6,
-        w_name:"Web design guviclone",
-        w_img:project6_img,
-        w_link:"https://surya220804.github.io/GuviClone/",
+        w_name:"Hirex",
+        w_img:project1_img,
+        w_link:"https://guviui.netlify.app/#/home",
     },
       {
         w_no:8,
